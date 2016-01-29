@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Inphotehk
-tagline: Supporting tagline
+tagline: Technical Information
 ---
 {% include JB/setup %}
 
